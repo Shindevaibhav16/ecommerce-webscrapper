@@ -1,4 +1,4 @@
-# Flask based wordcloud generator
+# Flask based webscrapper generator
 This is a flask based app to scrap user reviews and comments from a retail website and generates word-cloud with CSV data.
 The data that was gathered is available to download as well.
 
